@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\fakultet\\rs1\\v02\\rs1vjezbe2api\\rs1vjezbe2api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\fakultet\\rs1\\v02\\rs1vjezbe2api\\rs1vjezbe2api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\fakultet\\rs1\\v02\\rs1vjezbe2api\\rs1vjezbe2api\\rs1vjezbe2api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\rs1vjezbe2api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\fakultet\\rs1\\v02\\rs1vjezbe2api\\rs1vjezbe2api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\fakultet\\rs1\\v02\\rs1vjezbe2api\\rs1vjezbe2api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\fakultet\\rs1\\v02\\rs1vjezbe2api\\rs1vjezbe2api\\dtos\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\dtos\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\fakultet\\rs1\\v02\\rs1vjezbe2api\\rs1vjezbe2api\\data\\studentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF6688-2340-4075-95F6-4D1FE2CDEDEB}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\data\\studentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RS1Vjezbe2API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T17:12:36.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Program.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Program.cs",
+              "ToolTip": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Program.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:49:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentStorage.cs",
+              "DocumentMoniker": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Data\\StudentStorage.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Data\\StudentStorage.cs",
+              "ToolTip": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Data\\StudentStorage.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Data\\StudentStorage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:38:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentResponse.cs",
+              "DocumentMoniker": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Dtos\\StudentResponse.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Dtos\\StudentResponse.cs",
+              "ToolTip": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Dtos\\StudentResponse.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Dtos\\StudentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:36:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Models\\Student.cs",
+              "ToolTip": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Models\\Student.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:34:12.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:29:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RS1Vjezbe2API.http",
+              "DocumentMoniker": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\RS1Vjezbe2API.http",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\RS1Vjezbe2API.http",
+              "ToolTip": "C:\\Fakultet\\RS1\\V02\\RS1Vjezbe2API\\RS1Vjezbe2API\\RS1Vjezbe2API.http",
+              "RelativeToolTip": "RS1Vjezbe2API\\RS1Vjezbe2API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-27T16:27:30.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
