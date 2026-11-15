@@ -1,0 +1,6 @@
+@RS1Vjezbe2API_HostAddress = http://localhost:5147
+
+GET {{RS1Vjezbe2API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
