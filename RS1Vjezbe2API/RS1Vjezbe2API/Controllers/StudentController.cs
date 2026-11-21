@@ -2,17 +2,18 @@
 using RS1Vjezbe2API.Dtos;
 using RS1Vjezbe2API.Data;
 using RS1Vjezbe2API.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace RS1Vjezbe2API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class StudentController(StudentStorage studentStorage) : Controller
+    public class StudentController(AppDbContext db) : Controller
     {
         [HttpGet]
-        public List<StudentResponse> GetAll()
+        public async Task<List<StudentResponse>> GetAll(CancellationToken ct)
         {
-            List<Student> studenti = studentStorage.GetAll();
+            List<Student> studenti = await db.Studenti.ToListAsync(ct);
             return studenti.Select(s => Mapiraj(s)).ToList();
         }
 
