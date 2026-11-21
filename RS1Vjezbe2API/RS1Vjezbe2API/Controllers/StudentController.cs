@@ -13,8 +13,19 @@ namespace RS1Vjezbe2API.Controllers
         [HttpGet]
         public async Task<List<StudentResponse>> GetAll(CancellationToken ct)
         {
-            List<Student> studenti = await db.Studenti.ToListAsync(ct);
-            return studenti.Select(s => Mapiraj(s)).ToList();
+            
+            IQueryable<Student> upit = db.Studenti;
+            return await upit.OrderBy(x => x.Prezime).ThenBy(x => x.Ime).Select(x => new StudentResponse
+            {
+                Id = x.Id,
+                ImePrezime = x.Ime + " " + x.Prezime,
+                BrojIndeksa = x.BrojIndeksa,
+                DatumRodjenja = x.DatumRodjenja,
+                Smjer = x.Smjer != null ? x.Smjer.Naziv : null
+            }).ToListAsync();
+
+            //List<Student> studenti = await db.Studenti.ToListAsync(ct);
+            //return studenti.Select(s => Mapiraj(s)).ToList();
         }
 
         [HttpGet("{id:int}")]
