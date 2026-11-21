@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\migrations\\20261115142727_pocetna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\migrations\\20261115142727_pocetna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\data\\studentstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +31,16 @@
       "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\dtos\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\rs1vjezbe2api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\rs1vjezbe2api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|c:\\rs1\\developer1\\rs1-v01-git\\rs1vjezbe2api\\rs1vjezbe2api\\rs1vjezbe2api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7741E42C-B15A-C924-F267-B5A1DE0728DF}|RS1Vjezbe2API\\RS1Vjezbe2API.csproj|solutionrelative:rs1vjezbe2api\\rs1vjezbe2api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,19 +55,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Program.cs",
-              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Program.cs",
-              "ToolTip": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Program.cs",
-              "RelativeToolTip": "RS1Vjezbe2API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Title": "20261115142727_Pocetna.cs",
+              "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Migrations\\20261115142727_Pocetna.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Migrations\\20261115142727_Pocetna.cs",
+              "ToolTip": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Migrations\\20261115142727_Pocetna.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Migrations\\20261115142727_Pocetna.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:49:05.577Z",
+              "WhenOpened": "2026-11-15T14:27:27.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T13:24:28.95Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:29:14.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\appsettings.json",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\appsettings.json",
+              "ToolTip": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\appsettings.json",
+              "RelativeToolTip": "RS1Vjezbe2API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-15T13:15:45.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StudentStorage.cs",
               "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Data\\StudentStorage.cs",
               "RelativeDocumentMoniker": "RS1Vjezbe2API\\Data\\StudentStorage.cs",
@@ -63,12 +111,23 @@
               "RelativeToolTip": "RS1Vjezbe2API\\Data\\StudentStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:38:47.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T16:38:47.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Program.cs",
+              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Program.cs",
+              "ToolTip": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Program.cs",
+              "RelativeToolTip": "RS1Vjezbe2API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:49:05.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StudentResponse.cs",
               "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Dtos\\StudentResponse.cs",
               "RelativeDocumentMoniker": "RS1Vjezbe2API\\Dtos\\StudentResponse.cs",
@@ -76,12 +135,11 @@
               "RelativeToolTip": "RS1Vjezbe2API\\Dtos\\StudentResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:36:50.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T16:36:50.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "RS1Vjezbe2API.http",
               "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\RS1Vjezbe2API.http",
               "RelativeDocumentMoniker": "RS1Vjezbe2API\\RS1Vjezbe2API.http",
@@ -89,12 +147,11 @@
               "RelativeToolTip": "RS1Vjezbe2API\\RS1Vjezbe2API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-10-27T16:27:30.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T16:27:30.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RS1Vjezbe2API\\Properties\\launchSettings.json",
@@ -106,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Models\\Student.cs",
               "RelativeDocumentMoniker": "RS1Vjezbe2API\\Models\\Student.cs",
@@ -115,18 +172,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T16:34:12.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "RS1Vjezbe2API\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\rs1\\developer1\\rs1-v01-git\\RS1Vjezbe2API\\RS1Vjezbe2API\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "RS1Vjezbe2API\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:29:14.797Z"
             }
           ]
         }
