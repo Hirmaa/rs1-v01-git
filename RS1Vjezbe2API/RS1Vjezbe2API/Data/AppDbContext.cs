@@ -7,6 +7,7 @@ namespace RS1Vjezbe2API.Data
     {
         public DbSet<Student> Studenti => Set<Student>();
 
+        public DbSet<Smjer> Smjerovi => Set<Smjer>();
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -28,6 +29,24 @@ namespace RS1Vjezbe2API.Data
                     BrojIndeksa = "IB260002",
                     DatumRodjenja = new DateOnly(2004, 4, 8),
                     DatumKreiranja = new DateTime(2026, 11, 15),
+                }
+                );
+            modelBuilder.Entity<Student>()
+                .HasOne(s => s.Smjer)
+                .WithMany(sm => sm.Studenti)
+                .HasForeignKey(s => s.SmjerId)
+                .OnDelete(DeleteBehavior.Restrict);
+            modelBuilder.Entity<Smjer>().HasData(
+                new Smjer
+                {
+                    Id = 1,
+                    Naziv = "Softverski inzinjering"
+
+                },
+                new Smjer
+                {
+                    Id = 2,
+                    Naziv = "Razvoj softvera"
                 }
                 );
         }
