@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RS1Vjezbe2API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2be29b62c3a376ab10dc0230b6e51544266207d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+502089097c581b731455816c35dad966b768bdb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("RS1Vjezbe2API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RS1Vjezbe2API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

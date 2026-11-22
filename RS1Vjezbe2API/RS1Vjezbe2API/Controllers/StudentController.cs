@@ -13,7 +13,7 @@ namespace RS1Vjezbe2API.Controllers
         [HttpGet]
         public async Task<List<StudentResponse>> GetAll(CancellationToken ct)
         {
-            
+
             IQueryable<Student> upit = db.Studenti;
             return await upit.OrderBy(x => x.Prezime).ThenBy(x => x.Ime).Select(x => new StudentResponse
             {
@@ -41,11 +41,11 @@ namespace RS1Vjezbe2API.Controllers
         [HttpPost]
         public async Task<ActionResult<StudentResponse>> Dodaj(StudentDodajRequest request, CancellationToken ct)
         {
-            Student student=new Student()
+            Student student = new Student()
             {
-                Ime=request.Ime,
-                Prezime=request.Prezime,
-                BrojIndeksa=request.BrojIndeksa,
+                Ime = request.Ime,
+                Prezime = request.Prezime,
+                BrojIndeksa = request.BrojIndeksa,
                 DatumRodjenja = request.DatumRodjenja,
                 DatumKreiranja = DateTime.Now
             };
@@ -53,13 +53,40 @@ namespace RS1Vjezbe2API.Controllers
             await db.SaveChangesAsync(ct);
             return Ok(Mapiraj(student));
         }
+        [HttpPut("{id:int}")]
+        public async Task<ActionResult<StudentResponse>> Update(int id, StudentUpdateRequest request, CancellationToken ct)
+        {
+            Student? student = await db.Studenti.FirstOrDefaultAsync(x => x.Equals(id), ct);
+            if (student == null) { return NotFound(); }
+            student.Ime = request.Ime;
+            student.Prezime = request.Prezime;
+            student.BrojIndeksa = request.BrojIndeksa;
+            student.DatumRodjenja = request?.DatumRodjenja;
+            student.SmjerId = request?.SmjerId;
+            //lol
+            await db.SaveChangesAsync(ct);
+            return Ok(Mapiraj(student));
+        }
 
-        private static StudentResponse Mapiraj(Student s) {
-            return new StudentResponse() { 
-            Id=s.Id,
-            ImePrezime=$"{s.Ime} {s.Prezime}",
-            BrojIndeksa = s.BrojIndeksa,
-            DatumRodjenja=s.DatumRodjenja,
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> Delete(int id, CancellationToken ct)
+        {
+            Student? student = await db.Studenti.FirstOrDefaultAsync(x => x.Equals(id), ct);
+            if (student == null) { return NotFound(); }
+            db.Studenti.Remove(student);
+            await db.SaveChangesAsync(ct);
+            return NoContent();
+        }
+
+
+        private static StudentResponse Mapiraj(Student s)
+        {
+            return new StudentResponse()
+            {
+                Id = s.Id,
+                ImePrezime = $"{s.Ime} {s.Prezime}",
+                BrojIndeksa = s.BrojIndeksa,
+                DatumRodjenja = s.DatumRodjenja,
             };
         }
     }
